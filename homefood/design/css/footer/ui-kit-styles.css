@@ -1129,8 +1129,8 @@ body .colapsed-menu::-webkit-scrollbar {
  * */
 .footer-3 {
   font-size: 14px;
-  padding-top: 65px;
-  padding-bottom: 65px;
+  padding-top: 4px;
+  padding-bottom: 4px;
   background: #248018;
   color: #bdc3c7;
 }

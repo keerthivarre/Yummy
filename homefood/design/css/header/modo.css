@@ -1277,10 +1277,11 @@ section * {
   -webkit-transition: all 1.0s ease-in-out;
 }
 #nav-menu li a{
-    color:#fff;
-    font-size: 16px;
+    color:#3C0350;
+    font-size: 20px;
     display: block;
-    font-family: "kulturista-web";
+    font-weight: 400;
+    font-family: "serif";
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     -webkit-transform: scale(1, 1);
@@ -1428,6 +1429,9 @@ section * {
   padding:15px 40px;
   color:#000;
   font-size: 20px;
+}
+#contact{
+  -webkit-transition: all 1.0s ease-in-out;
 }
 }
 /**

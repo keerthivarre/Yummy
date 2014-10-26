@@ -968,8 +968,8 @@ body .colapsed-menu::-webkit-scrollbar {
  * Copntact 2 stylesheet  
  * */
 .contacts-2 {
-  padding-top: 110px;
-  padding-bottom: 110px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .contacts-2 h3 {
   font-size: 30px;
@@ -1008,7 +1008,6 @@ body .colapsed-menu::-webkit-scrollbar {
 .contacts-2 form {
   margin: 0;
   padding: 46px;
-  border: 2px solid #ebedee;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
